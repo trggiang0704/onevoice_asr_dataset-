@@ -1,0 +1,28 @@
+SOURCE: VOA Learning English
+
+Organization: Voice of America (VOA)
+
+Official website:
+https://learningenglish.voanews.com/
+
+License / Rights information:
+VOA Learning English states that its Learning English texts, MP3s, photos, and videos are in the public domain. The site states that these materials may be reprinted for educational and commercial purposes, with credit to learningenglish.voanews.com.
+
+Official rights information:
+https://learningenglish.voanews.com/p/6861.html
+
+Additional terms:
+VOA states that content produced exclusively by Voice of America is in the public domain. However, VOA content may also contain third-party copyrighted material, including material from news agencies such as AP, Reuters, and AFP. Such third-party material is not automatically public domain and may not be copied, redistributed, sold, or published without permission from the copyright owner.
+
+Dataset usage decision:
+VOA Learning English content produced exclusively by VOA may be considered for inclusion in the ASR dataset, subject to checking each individual source for third-party content.
+
+Attribution:
+Voice of America / VOA Learning English
+learningenglish.voanews.com
+
+Evidence checked:
+2026-09-12
+
+Rights status:
+RIGHTS_PENDING

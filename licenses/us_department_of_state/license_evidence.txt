@@ -1,0 +1,33 @@
+SOURCE: U.S. Department of State
+
+Organization: U.S. Department of State
+
+Official website:
+https://www.state.gov/
+
+Copyright information:
+https://www.state.gov/copyright-information/
+
+Source type:
+Official U.S. Government source
+
+License / Rights information:
+Materials published by the U.S. Department of State may generally be used when they are not protected by a separate copyright notice. U.S. Government works are generally in the public domain in the United States. The Department of State advises users to check for copyright notices and third-party material because not all content appearing on Department of State websites is necessarily owned by the U.S. Government.
+
+Dataset usage:
+Official Department of State press briefings and other original U.S. Government speech content may be considered for inclusion in the ASR dataset after checking the individual source for copyright notices and third-party material.
+
+Third-party content:
+Third-party copyrighted material may be present in some State Department content. Such material must not be assumed to be public domain.
+
+Attribution:
+U.S. Department of State
+
+Evidence checked:
+2026-09-12
+
+Rights status:
+RIGHTS_PENDING
+
+Notes:
+This evidence applies to U.S. Department of State material generally. Each individual audio/video source should be checked before inclusion in the final dataset release.

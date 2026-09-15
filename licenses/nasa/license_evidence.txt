@@ -1,0 +1,33 @@
+SOURCE: NASA
+
+Organization: National Aeronautics and Space Administration (NASA)
+
+Official website:
+https://www.nasa.gov/
+
+Images and Media Usage Guidelines:
+https://www.nasa.gov/nasa-brand-center/images-and-media/
+
+Source type:
+Official U.S. Government source
+
+License / Rights information:
+NASA states that its content, including many images, audio, video, and other media, is generally not subject to copyright in the United States. NASA content may generally be used for educational and informational purposes, subject to the applicable NASA media usage guidelines.
+
+Third-party content:
+Some NASA pages and media may contain third-party copyrighted material, including material supplied by contractors, partners, news organizations, or other rights holders. Third-party material must be identified and its rights checked separately.
+
+Dataset usage:
+Original NASA-produced audio/video containing English speech may be considered for inclusion in the ASR dataset after checking the individual asset for third-party content and applicable usage restrictions.
+
+Attribution:
+National Aeronautics and Space Administration (NASA)
+
+Evidence checked:
+2026-09-12
+
+Rights status:
+RIGHTS_PENDING
+
+Notes:
+NASA insignia, identifiers, logos, and other branding elements may have separate usage restrictions. The dataset should contain the speech/audio content rather than NASA branding as a separate asset. Individual media assets must be checked before final redistribution.
