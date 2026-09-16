@@ -1,0 +1,24 @@
+GIẤY XÁC NHẬN BẢN QUYỀN VÀ CẤP PHÉP SỬ DỤNG DỮ LIỆU
+(DATA CONSENT AND LICENSING AGREEMENT)
+
+Dự án: OneVoice ASR
+Ngày xác nhận: 16/09/2026
+
+1. XÁC NHẬN SỞ HỮU
+Tôi xác nhận rằng tôi là tác giả, người tạo ra và là chủ sở hữu hợp pháp của tập dữ liệu âm thanh và văn bản (thuộc nhóm dữ liệu "OneVoice Team") được cung cấp cho dự án này.
+
+2. CẤP PHÉP SỬ DỤNG
+Tôi tự nguyện đồng ý cấp phép sử dụng toàn bộ tập dữ liệu này dưới giấy phép Creative Commons Ghi công (CC BY) / Hoặc cấp quyền sử dụng toàn phần cho dự án OneVoice.
+
+Thông qua văn bản này, tôi cấp cho dự án OneVoice (và các bên kế thừa, đối tác) quyền vĩnh viễn, miễn phí bản quyền để:
+- Lưu trữ, sao chép và phân phối dữ liệu.
+- Chỉnh sửa, trích xuất và tạo các tác phẩm phái sinh.
+- Sử dụng dữ liệu để nghiên cứu, phát triển, huấn luyện và thương mại hóa các mô hình Trí tuệ Nhân tạo (AI) / Nhận dạng giọng nói (ASR).
+
+3. CAM KẾT
+Tôi cam kết rằng việc tôi cung cấp dữ liệu này không vi phạm bất kỳ quyền sở hữu trí tuệ, quyền riêng tư hay thỏa thuận bảo mật nào của bên thứ ba.
+
+Người xác nhận và Cấp phép:
+
+
+BÙI NGỌC KHÁNH

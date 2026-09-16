@@ -1,0 +1,176 @@
+Mozilla Data Collective Data Consumer Terms of Use
+
+Last Updated: May 06, 2026
+
+These Mozilla Data Collective Data Consumer Terms of Use (the “Terms”) govern your access to and use of the Mozilla Data Collective online data sharing platform and marketplace, and related services (collectively, the “Platform”) made available by Mozilla Data Collective LTD, a company registered in England and Wales with company number 17054959, whose registered address is at 167-169 Great Portland Street, London, W1W 5PF, or any of its subsidiaries and affiliates (“MDC”, “we”, “our”, or “us”).
+
+These Terms form a legally binding agreement between MDC and the person or entity that registers for, access or uses the Platform or any Dataset (defined below) (“you” or “Data Consumer”). If you are an individual accepting these Terms on, and accessing and/or using Dataset for, your own behalf, “you” and “Data Consumer” means you personally. If you are accepting these Terms, and accessing and/or using Datasets, on behalf of a company, organization or other legal entity, then (a) “you” and “Data Consumer” means that entity, and (b) you represent and warrant that you have the authority to bind such entity to these Terms.
+
+We may update these Terms from time to time, including to reflect changes to the Platform, applicable law, regulatory requirements, security requirements, or our business operations. If we make changes that are material and adversely affect your rights or obligations, we will give you reasonable advance notice by email, through your account, or by other clear means. If you do not agree to the change, you must stop using the Platform and terminate your account before the change takes effect. Continued use after the effective date of the change will constitute acceptance only to the extent permitted by applicable law.
+
+1. ELIGIBILITY & ACCESS.
+a. Platform Purpose. The Platform operates as an online data sharing platform and marketplace to enable third-party data providers (“Data Providers”) to list, describe, and provide access to their datasets, which may include voice recordings, audio and text data, numbers, images, documents, video, geospatial data, and other computer vision and/or multimodal datasets (each, a “Dataset”) for use by approved end users (“End Users”). The Platform facilitates the discovery, access, and, where applicable, hosting and delivery of Datasets.
+
+b. Acceptance of Terms. By accessing or using the Platform, you accept and agree to be bound and abide by these Terms and our Privacy Policy, which is incorporated herein by reference. If you do not agree to be bound by these Terms or any provisions hereof, you must not access or use the Platform.
+
+c. Use and Eligibility. You may only use the Platform if you are legally capable of entering into a binding contract with MDC (either on behalf of yourself or the entity you represent), and only in compliance with these Terms and all applicable laws and regulations. By accessing or using the Platform, including by registering a User Account (defined below), you confirm that (A) you are at least 18 years of age, (B) you will use the Platform in accordance with the Agreement and all applicable local, state, national and international laws, rules and regulations, and (C) if registering on behalf of a company, organization or other entity, you are an authorized representative of the entity and have the authority to bind such entity to these Terms. The Platform is not available to any users previously removed from the Platform by MDC.
+
+d. Data Consumer Account. In order to use the Platform, you will be required to register for an account (“Data Consumer Account”) on behalf of yourself or, if applicable, on behalf of any entity for which you are authorized to act. You are responsible for ensuring that (A) all required registration information you submit is truthful and accurate, and (B) your contact information is current. You are solely responsible for maintaining the confidentiality and security of your Data Consumer Account login information. You agree not to share your login credentials or access to your Data Consumer Account with anybody. We are not liable for any losses incurred by you or any party as a result of unauthorized use of your Data Consumer Account. You agree to notify us immediately of any unauthorized use of your Data Consumer Account.
+
+e. Data Consumer License Terms. All licenses for access to and use of Datasets are granted to you directly by the applicable Data Provider, under that Data Provider’s license terms for such Dataset (“Data Consumer License”). In order to access or download a Dataset, you must first review and accept the applicable Data Consumer License provided by the Data Provider. Your rights to use any Dataset are solely as granted in that Data Consumer License.
+
+f. Supplemental Dataset Use Terms. If you access or use a Dataset through the Platform, such access and use is also subject to the additional terms set forth in Appendix 1 (Additional Dataset Use Terms). These Additional Dataset Use Terms are incorporated by reference into and form part of these Terms. The Additional Dataset Use Terms apply to each Dataset in addition to, not in lieu of, the applicable Data Consumer License.
+
+2. USE OF THE PLATFORM.
+a. Permitted Use of the Platform. Subject to these Terms and all applicable laws, you may use the Platform for the limited purpose of discovering, accessing and downloading Datasets made available by Data Providers.
+
+b. Prohibited Uses. In using the Platform, you agree that you shall not, and shall not encourage, assist or enable any other third party to: (i) reproduce, duplicate, modify, copy, distribute, transmit, display, sell, transfer, publish, create derivative works from or otherwise exploit for any purpose the content, software, or a Dataset (except as expressly permitted in the Data Consumer License) on the Platform; (ii) engage in any activity that could cause us to violate any applicable law, statute, ordinance, or regulation; (iii) engage in any conduct that is fraudulent, inaccurate, infringing, libelous, defamatory, abusive, offensive, obscene, or otherwise violates any law or right of MDC, its Data Consumers, its Data Providers, or any third party, including privacy rights, copyrights, or other intellectual property rights; (iv) remove or modify any copyright, trademark, or other proprietary rights notice that appears on any portion of the Platform, or on any materials printed or copied from the Platform; (vi) copy, distribute, or disclose any part of the Platform in any medium, including without limitation by any automated or non-automated “scraping”; (vii) access, copy, download or use a Dataset outside the scope of your Data Consumer License; (viii) decompile, analyze, or otherwise attempt to determine, trace, match the identity of, or re-identify the individual contributor or source of any data contained in any Dataset; (ix) copy, scrape, download or otherwise acquire any Dataset or portion thereof from the Platform for the purpose of (A) mirroring, duplicating or reproducing the Dataset in whole or in substantial part, or (B) hosting, storing or making the Dataset available on any platform, server or repository other than the Platform, except as expressly permitted under the applicable Data Consumer License for that Dataset, or (C) replicating a website or service that is similar or competitive to the Platform; (x) use automated tools, bots, crawlers or similar technologies to systematically access, extract or index Dataset with the intent to republish or redistribute them outside of the Platform; (xi) circumvent or bypass any technical measures that control access to a Dataset or limit their download, reproduction or redistribution; (xii) take action that imposes, or may impose, in the discretion of MDC, an unreasonable or disproportionately large load on the MDC infrastructure; (xiii) collect or harvest any personal data from the Platform; (xiiv) resell or make any commercial use of the Platform except as authorized hereunder without our prior written consent; (xv) interfere with the proper working of the Platform; (xvi) access any content on the Platform through any technology or means other than those provided or authorized by the Platform; or (xvii) access the Platform to build a similar or competitive website, application, product, or service.
+
+c. Security Obligations. You agree to implement and maintain reasonable safeguards to protect the Dataset against unauthorized access, use or disclosure.
+
+d. Off-Platform Engagement. You may not engage in off-Platform communications, interactions or transactions with Data Providers in order to circumvent these Terms, or any applicable payment requirements.
+
+3. INTELLECTUAL PROPERTY.
+a. Platform License Grant. Subject to the terms and conditions herein, we grant you a limited, revocable, non-sublicensable, non-exclusive, non-transferable, non-assignable license to access and use the Platform solely for the permitted uses described herein.
+
+b. Rights in the Platform. As between you and MDC, the Platform, including without limitation any technology, interface, content (excluding Datasets), graphics, sound, artwork, software, computer code, logos, patents, trademarks, service marks, copyrights, and all the intellectual property rights therein or relating thereto, and any derivative works, modifications or improvements of any of the foregoing are and shall remain the exclusive property of MDC. MDC reserves all rights in the Platform not expressly granted herein.
+
+c. Rights in the Data. All rights in the Dataset remain exclusively with the applicable Data Provider (or its licensors, as applicable). You obtain only those rights expressly granted in the applicable Data Consumer License.
+
+d. Feedback. From time to time, you may provide us with comments, suggestions, or ideas for enhancements, improvements, changes, or additions to the Platform or our business in general, including ideas for new features, materials, and other content (“Feedback”). By providing us Feedback, you grant to us you grant to us a worldwide, perpetual, irrevocable, royalty-free, sublicensable license to use, copy, modify, distribute and incorporate the Feedback into the Platform and our products, services and documentation, in any form and for any purpose (including commercial purposes). MDC has no obligation to do anything with Feedback, but if we do, we may do so without notice, acknowledgement or compensation to you. For clarity, the foregoing license does not affect your (or your licensors’) ownership of any pre-existing intellectual property in your own products, services or Dataset that may be included in the Feedback.
+
+4. DISCLAIMERS.
+a. Warranty Disclaimer. SUBJECT TO YOUR STATUTORY RIGHTS, THE PLATFORM IS PROVIDED ON AN “AS AVAILABLE” BASIS. USE OF THE PLATFORM IS AT YOUR OWN RISK. MDC DOES NOT WARRANT THAT THE PLATFORM WILL BE UNINTERRUPTED, ERROR-FREE OR AVAILABLE AT ALL TIMES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THESE TERMS LIMITS OR EXCLUDES ANY RIGHTS YOU HAVE UNDER APPLICABLE CONSUMER PROTECTION LAWS, INCLUDING YOUR RIGHTS UNDER THE CONSUMER RIGHTS ACT 2015.
+
+b. No Endorsement or Guarantee. We provide the Platform as a technical and administrative infrastructure to facilitate the listing, discovery, hosting (if applicable), and/or access to Datasets by Data Consumers. We may conduct limited vetting of Data Providers, but, unless we expressly state otherwise, we do not endorse, or guarantee the accuracy, completeness, legality, or quality of Datasets. We reserve the right, but are not obligated, to review and/or screen a Dataset prior to its inclusion on the Platform. You remain solely responsible for evaluating the suitability of a Dataset for your intended use and you should review Datasets carefully before use.
+
+c. Dataset Disclaimer. We are not responsible, and expressly disclaim liability, for: (i) any damages, claims or liabilities arising from your access to, download or use of a Dataset; or (ii) the availability, accuracy, completeness, legality, quality or appropriateness of a Dataset.
+
+5. MODIFICATION, SUSPENSION AND TERMINATION.
+a. Modification. MDC reserves the right at any time to modify, suspend or discontinue the Platform (or any part thereof), for valid reasons. Where reasonably practicable, we will endeavour to give you reasonable notice of any material change, suspension, or discontinuance. Except as otherwise expressly stated in these Terms, you agree that MDC shall not be liable to you or to any third-party for any modification, suspension, or discontinuation of the Platform.
+
+b. Account Suspension or Termination. We may limit, suspend or terminate your Data Consumer Account or access to the Platform: (i) if you breach these Terms or applicable Data Consumer Licenses; (ii) to comply with applicable laws or legal obligations; (iii) in the event of failed or reversed payments, chargebacks or other non-payment of Fees (if applicable), or (iv) if necessary to protect the integrity of the Platform. Upon termination, you must immediately cease using the Platform, and, subject to the applicable Data Consumer License, and Datasets, and, subject to the applicable Data Consumer License, delete or destroy all copies of Datasets in your possession.
+
+c. Account Cancellation. You may cancel your use of the Platform and/or terminate your Data Consumer Account at any time by writing to support@mozilladatacollective.com. Please see our Privacy Policy for information regarding data deletion requests following Data Consumer Account cancellation or termination.
+
+6. FEES.
+a. Data Provider Fees. Data Providers may choose to charge fees for access to and use of their Dataset (“Dataset Fees”). In consideration of your access to, download and use of such Dataset, you agree to pay any such Dataset Fees. Data Providers determine the Dataset Fees applicable to a particular Dataset, in their sole discretion. Data Providers may update Dataset Fees from time to time, but any change will apply only to future purchases or access requests, and will not affect a purchase or access right you have already acquired.
+
+b. Platform Fees. In addition to the Dataset Fees, a platform service fee for use of the Platform(“Platform Fee”, and together with Dataset Fees, the “Fees”) in the amount of five percent (5%) of the total Dataset Fees will be bundled into and reflected in the total price presented to you at the time of purchase. The Platform Fee will be displayed to you during the purchase process and/or at checkout prior to completing your purchase of the Dataset. By completing your purchase, you expressly acknowledge and agree to pay the total amount of Fees displayed at checkout. MDC reserves the right, in its sole discretion, to update the amount of the Platform Fee from time to time. Any modification to the Platform Fee will be communicated to you via notice posted to the Platform and will be effective thirty (30) days following such notice, and will apply to all transactions completed on or after the effective date of such modification. Continued use of the Platform following the effective date of any modification constitutes acceptance of the updated Platform Fee.
+
+c. Payment Processing. All payments for Fees are facilitated through Stripe, Inc. (the “Payment Processor”). Upon completion of a purchase, Payment Processor will distribute the Dataset Fees to the Data Provider and the Platform Fee to MDC, in accordance with their respective entitlements. You acknowledge that your purchase may also be subject to the terms and policies of the Payment Processor, and you should ensure you understand them. By agreeing to these Terms, you agree to be bound by the terms and policies of the Payment Processor, and any modifications to those terms and policies made from time to time.
+
+d. Payment Authorization. By submitting your payment information, you authorize us and/or our Payment Processor to charge you through the payment method you specify at the time of you purchase and process all transactions related to your purchase of and access to a Dataset, and you represent and warrant that you have the legal right and authorization to utilize such payment method.
+
+e. MDC’s Role. MDC operates solely as the Platform and payment facilitation intermediary, connecting Data Consumers and Data Providers through the Platform. MDC is not a party to any transaction between you and any Data Providers, and is not responsible for acts or omissions of the Payment Processor. Without limiting the foregoing, MDC shall have no liability for any payment processing errors, failed or misdirected transfers, unauthorized charges, delays, outages or service failures attributable to Payment Processor, whether arising from Payment Processor’s systems, terms or policies. Any issues arising from the processing or distribution of payments should be directed to the Payment Processor in accordance with its applicable terms.
+
+f. Taxes. You are responsible for all applicable taxes, duties and similar charges arising from your payments under these Terms.
+
+g. Refunds. Refunds for transactions conducted through the Platform are handled off-Platform directly between you and the applicable Data Provider. MDC does not adjudicate, mediate or process refund requests on behalf of either the Data Provider or you, and assumes no liability for the outcome of any refund dispute. Notwithstanding the foregoing, MDC may, in its sole discretion, provide factual transactional information (such as download or access records) to a Data Provider upon request solely for the purpose of assisting in the resolution of a refund dispute, and any such assistance shall not be construed as adjudication, mediation or an assumption of liability by MDC with respect to such dispute.
+
+7. INDEMNIFICATION.
+You agree at your own expense, to indemnify, defend, and hold harmless MDC and its affiliates, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) incurred in, arising out of or in any way related to: (i) your breach of these Terms or any Data Consumer License; (ii) your (or via any other user’s use of your Data Consumer Account) use of or access to the Platform; (iii) any dispute between you and any Data Provider; (iv) your violation of any applicable law, rule or regulation; and (v) your negligence or willful misconduct.
+
+8. LIMITATION OF LIABILITY.
+a. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL MDC, ITS AFFILIATES, AGENTS AND/OR EMPLOYEES BE RESPONSIBLE OR LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL LOSS, CLAIM, INJURY AND/OR DAMAGE ARISING OUT OF, OR IN ANY WAY CONNECTED WITH, THE AGREEMENT, YOUR USE OF THE PLATFORM, OR FOR ANY DATASET, INFORMATION, AND SOFTWARE OBTAINED THROUGH THE PLATFORM, OR ANY FAILURE OR DELAY, OR THE PERFORMANCE OR NON-PERFORMANCE BY MDC, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, EVEN IF MDC HAS BEEN ADVISED OF THE POSSIBILITY OF ANY LOSS, CLAIM, INJURY AND/OR DAMAGE.
+
+b. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MDC, ITS AFFILIATES, AGENTS AND/OR EMPLOYEES BE LIABLE TO YOU FOR ANY CLAIMS, LIABILITIES OR DAMAGES HEREUNDER IN AN AMOUNT EXCEEDING THE AMOUNT PAID BY YOU TO MDC DURING THE TWELVE (12) MONTH PRECEDING THE EVENT GIVING RISE TO THE CLAIM, OR THE DURATION OF YOUR USE OF THE PLATFORM, OR, IF GREATER, ONE HUNDRED GBP (£100).
+
+c. NOTWITHSTANDING (a) AND (b) ABOVE, NOTHING IN THESE TERMS LIMITS OR EXCLUDES LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE, FRAUD OR FRAUDULENT MISREPRESENTATION, OR ANY RIGHTS YOU HAVE UNDER APPLICABLE CONSUMER PROTECTIONLAWS. SUBJECT TO THE FOREGOING MDC WILL NOT BE LIABLE FOR LOSSES THAT WERE NOT FORESEEABLE OR THAT WERE NOT CAUSED BY MDC’S BREACH OF THESE TERMS.
+
+9. THIRD-PARTY WEBSITES.
+The Platform may contain links to third-party materials or websites that are not owned or controlled by MDC. MDC does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or Platform. If you access a third-party website or service from the Platform or share your information or data on or through any third-party website or service, you do so at your own risk, and you understand that this Agreement and MDC’s Privacy Policy do not apply to your use of such sites. You expressly relieve MDC from any and all liability arising from your use of any third-party website, service, or content, including without limitation content, data, information and/or materials submitted by other users.
+
+10. DMCA NOTICE.
+MDC respects the intellectual property rights of others, is committed to complying with all applicable copyright and related laws., and expects its users of the Platform to do the same. Accordingly, our users (including you, other Data Consumers, and Data Providers) may not disseminate any material or content using the Platform in any manner that constitutes an infringement of third-party intellectual property rights, including rights granted by applicable copyright laws.
+
+If you believe that material on our Platform infringes your copyright or other intellectual property rights under UK law, you may submit a written notice to our designated MDC Copyright Agent. To be valid, your notice must include:
+
+a description of the copyrighted work that you claim has been infringed;
+
+a description of where the material that you claim is infringing is located on the site or other Platform;
+
+your address, telephone number and email address;
+
+a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law;
+
+an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest, as applicable; and
+
+a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on such owner’s behalf.
+
+The MDC Copyright Agent can be reached as follows: MDC’s Designated DMCA Agent (Copyright Agent): 167-169 Great Portland Street, London, W1W 5PF phone: +44 020 8323 3876
+email:copyright@mozilladatacollective.com
+
+Upon receipt of a valid notice, we will review it and, where we determine it is appropriate to do so, act expeditiously to remove or disable access to the material in question. If we remove or disable access in response to such a notice, or plan to, we may forward your notice and related communications to the user responsible for the content so that they can object to your request.
+
+We reserve the right to restore the material if we determine that a notice was submitted in error or in bad faith, or following a successful counter-notice (see below).
+
+If you believe that material you posted was removed in error, you may submit a written counter-notice to our designated MDC Copyright Agent. Your counter-notice must include:
+
+your address, telephone number and email address;
+
+identification of the material that was removed and the located where it appeared before removal;
+
+a statement made in good faith that you believe the material was removed as a result of a mistake or misidentification; and
+
+your physical or electronic signature.
+
+Upon receipt of a valid counter-notice, we may, at our discretion, restore the material after providing notice to the original complainant.
+
+Submitting a notice or counter-notice that contains false information may give rise to civil liability under UK law, including for damages, costs and losses suffered as a result.
+
+11. THIRD-PARTY DISPUTES AND RELEASE.
+You agree that you are solely responsible for your interactions, communications and transactions with any Data Provider, other Data Consumers or other third party (each, a “Third-Party”) in connection with the Platform, and any disputes arising therefrom. MDC will have no liability or responsibility with respect thereto. MDC reserves the right, but has no obligation, to monitor and/or become involved in any way with such disputes. To the fullest extent permitted by law, you hereby release and forever discharge MDC, our affiliates and our respective officers, directors, employees, contractors and agents from any and all claims, demands, liabilities, damages, losses, costs and expenses, whether known or unknown, arising out of or relating to any dispute between you and a Third-Party.
+
+12. COMPLIANCE OBLIGATIONS.
+You represent and warrant that you (i) will comply with all applicable laws, including data protection, intellectual property, export control and sanctions laws, in your use of the Platform and the Dataset; and (ii) are not a prohibited or restricted party under applicable trade sanctions.
+
+13. DISPUTE RESOLUTION.
+Informal Resolution. If you have a dispute, concern, or complaint arising out of or in connection with these Terms or your use of the Platform, we encourage you to contact us first at support@mozilladatacollective.com so that we can attempt to resolve the matter informally. We will endeavor to respond within a reasonable time and to work with you in good faith to reach a mutually acceptable resolution. There is no requirement that informal resolution attempts be made in writing, and we understand that for lower-value concerns in particular, a straightforward conversation is often the most practical first step.
+
+Optional Mediation. If a dispute cannot be resolved informally, before commencing court proceedings, and both you and MDC agree to use reasonable efforts to seek to resolve the dispute through non-binding mediation administered by a mutually-agreed upon mediator. Nothing in this clause prevents either party from commencing court proceedings at any time. Any mediation conducted pursuant to this section shall be seated in London, England, United Kingdom, and conducted in the English language. The costs of mediation shall be shared equally between the parties unless otherwise agreed.
+
+Court Access Preserved. Nothing in this Section limits either party’s right to bring a claim before a court of competent jurisdiction. If you are a consumer resident in the United Kingdom, you retain the right to bring proceedings in the courts of England and Wales, or the courts of the jurisdiction in which you are domiciled, in accordance with applicable law. Nothing in this section prevents either you or MDC from seeking urgent or interim relief from a court of competent jurisdiction at any time, including without first pursuing informal resolution or mediation.
+
+Governing Law. These Terms and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of England and Wales.
+
+14. MISCELLANEOUS.
+a. Entire Agreement. These Terms, the Privacy Policy and any other policies or guidelines referenced within these Terms constitute the entire agreement between you and MDC, and supersede any prior and contemporaneous agreements between you and MDC on the subject matter.
+
+b. Relationship of the Parties. Nothing in these Terms creates any agency, partnership, joint venture, or employment relationship between you and MDC. We act solely as a service provider facilitating interactions between you and Data Providers.
+
+c. Force Majeure. Under no circumstances will MDC be liable for any delay or failure in performance resulting directly or indirectly from an event beyond its reasonable control.
+
+d. No Waiver. No waiver of any term of the Agreement shall be deemed a further or continuing waiver of such term or any other term, and MDC’s failure to assert any right or provision under the Agreement shall not constitute a waiver of such right or provision.
+
+e. Severability. Each of the provisions of the Agreement operates separately. If any court or relevant authority decides that any of them are unlawful or unenforceable, the remaining provisions will remain in full force and effect. In the event that any provision is deemed unlawful or unenforceable, the parties agree that such provision shall be modified or amended by the court or relevant authority to the extent necessary to render it enforceable, in accordance with the intent of the original provision. The modified provision shall be interpreted so as to reflect the original intent of the parties as closely as possible, while remaining compliant with applicable law.
+
+f. Assignment. These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you without the prior written consent of MDC. These Terms may be assigned by MDC without restriction. Any attempted transfer or assignment in violation hereof shall be null and void.
+
+15. CONTACT & SUPPORT.
+If you wish to contact us or have any questions or concerns related to these Terms or your use of the Platform, please (1) email us at support@mozilladatacollective.com, or (2) contact us by Mail at Mozilla Data Collective LTD, 167-169 Great Portland Street, London, W1W 5PF.
+
+APPENDIX 1
+Supplemental Dataset Use Terms
+
+No Dataset Liability. Data Consumer acknowledges and agrees that MDC is not a party to the Data Consumer License, is not a licensor of the Dataset, and has no liability whatsoever in connection with the Dataset or Data Consumer’s use of the Dataset.
+
+Compliance with Laws. Data Consumer shall, at all times, comply with all applicable laws, rules, and regulations in connection with its access to and use of the Dataset, including without limitation all data protection, privacy, and export control laws.
+
+No Infringement. Data Consumer shall not use the Dataset in any manner that infringes, misappropriates, or otherwise violates any intellectual property rights, proprietary rights, rights of publicity or privacy, or any other rights of any third party.
+
+Indemnification. Data Consumer shall indemnify, defend, and hold harmless MDC, and its affiliates, officers, directors, employees, and agents, from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys’ fees) arising out of or related to Data Consumer’s use of the Dataset, including without limitation any breach of the Data Consumer License by Data Consumer.
+
+Permitted and Prohibited Uses of Dataset. Data Consumer may use the Dataset solely for purposes set forth in the Data Consumer License. Data Consumer shall not use the Dataset for any other purpose.
+
+Disclaimer of Warranties. The Dataset and the Platform are provided “as is” and “as available.” MDC disclaims all warranties, express, implied, statutory, or otherwise, including without limitation any warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+Limitation of Liability. To the maximum extent permitted by applicable law, MDC shall have no liability to Data Consumer under the Data Consumer License, whether in contract, tort, or otherwise, for any damages arising out of or relating to the Dataset or the Data Consumer License.
+
+Dataset Misuse and Enforcement. Data Consumer shall not, and shall not permit any third party to, bypass or attempt to bypass any security, technical, or access controls relating to the Dataset; scrape, mirror, or redistribute the Dataset; or otherwise misuse the Dataset. Data Consumer shall cooperate fully with MDC, where applicable, in any investigation or enforcement action relating to unauthorized use of the Dataset.
+
+Acceptable Use. Data Consumer shall not use the Dataset for any illegal, harmful, abusive, harassing, discriminatory, or otherwise objectionable purpose.
+
+Synthetic Dataset and Model Outputs. Data Consumer shall ensure that any synthetic data, derivative datasets, or model outputs generated using the Dataset (a) do not contain personal data, copyrighted material without authorization, harmful or unlawful speech, or other prohibited content, and (b) are clearly disclosed to downstream users as machine-generated.
+
+Dataset Quality and Accuracy. Data Consumer acknowledges and agrees that the Dataset may contain errors, omissions, or inaccuracies; is provided for informational purposes only; and shall not be relied upon as the sole basis for any decision-making. Data Consumer is solely responsible for verifying the accuracy, reliability, and appropriateness of the Dataset for its intended use.
