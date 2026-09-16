@@ -1,0 +1,1 @@
+We also have crew interfaces with the crew piloting the vehicle. Artemis 1 was uncrewed, and so we're going to go do a checkout right at the beginning of the mission while we're in an Earth orbit to be able to ensure that the crew is able to successfully pilot the vehicle.
