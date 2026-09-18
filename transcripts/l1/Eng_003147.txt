@@ -1,0 +1,1 @@
+the core technologies for Blue Origin that we will eventually apply to the human landing missions of Artemis.

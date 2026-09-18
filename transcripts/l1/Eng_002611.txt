@@ -1,0 +1,1 @@
+puts the heat shield towards the earth and then begins its entry.

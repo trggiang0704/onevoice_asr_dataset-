@@ -1,0 +1,1 @@
+A script contains the spoken words performers must say out loud.

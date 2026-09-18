@@ -1,0 +1,1 @@
+We're going to test out the vehicle's ability to conduct rendezvous maneuvers, cruise ability to actually fly Orion manually, and most importantly, we're going to test the environmental control system.

@@ -1,0 +1,1 @@
+The correctness of terminal count is on the terminal power.
