@@ -40,18 +40,18 @@
 
 Tổng: 11 clip. Chi tiết: `results/baseline_en/hard_examples.csv`, template QC: `benchmarks/error_analysis.csv`.
 
-- **What_Good_Comes_from_Casting_a_Wide_Net_0059** (WER=2.000)
+- **Eng_007433** (WER=2.000)
   - Reference: `at learningenglishatvauscom`
   - Prediction: `at learning english at voanewscom`
-- **Moonbound_Episode_1_Charting_the_Course_0052** (WER=0.778)
+- **Eng_002558** (WER=0.778)
   - Reference: `that might one time not see i really see`
   - Prediction: `not much long time no see long time no see`
-- **This_Week_at_State_July_3_2020_0003** (WER=0.750)
+- **Eng_005757** (WER=0.750)
   - Reference: `most highness terrif regime`
   - Prediction: `the most heinous terrorist regime`
-- **This_Week_At_State_December_4_2020_A_rev_0025** (WER=0.714)
+- **Eng_005331** (WER=0.714)
   - Reference: `its about 3 to 3 vs terry`
   - Prediction: `its about freedom versus tyranny`
-- **For_When_You_Do_Something_Wrong_Mea_Culp_0027** (WER=0.667)
+- **Eng_001241** (WER=0.667)
   - Reference: `and excal paint`
   - Prediction: `and exculpate`

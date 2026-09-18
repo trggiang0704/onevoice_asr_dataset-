@@ -1,1 +1,0 @@
-Then I send it to the editor who checks for content and errors.

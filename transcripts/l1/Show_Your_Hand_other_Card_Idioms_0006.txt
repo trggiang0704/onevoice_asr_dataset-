@@ -1,1 +1,0 @@
-A set of playing cards is called a deck.

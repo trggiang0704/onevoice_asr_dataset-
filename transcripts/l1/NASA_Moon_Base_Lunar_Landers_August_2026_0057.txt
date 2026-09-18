@@ -1,1 +1,0 @@
-The goal is to reuse keep power, avionics, and communication systems originally developed for the Gateway Programs Halo Module.

@@ -1,1 +1,0 @@
-is test the spacecraft, put it through its paces. Right now, Griffin is pictured on top of the mass property's fixture, which is the black thing you see in front of it. Basically, we are testing to measure the mass. What have you pulled the total mass?

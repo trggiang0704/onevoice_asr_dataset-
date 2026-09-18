@@ -1,1 +1,0 @@
-The program learns from a large database of books.

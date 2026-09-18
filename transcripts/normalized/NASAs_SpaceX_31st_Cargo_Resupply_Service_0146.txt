@@ -1,1 +1,0 @@
-The reason we need to perform this entry burn is we need to slow down to reduce re-entry forces which helps us to recover and reuse the first stage.

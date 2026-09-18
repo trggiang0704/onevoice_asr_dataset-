@@ -1,1 +1,0 @@
-We've made some significant upgrades since Artemis I, and that includes not just the software that you see out here running on the consoles, but it's also in our model and simulation environment.

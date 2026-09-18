@@ -1,1 +1,0 @@
-Now the transport director is designed to transport rays and support Falcon 9 at the launch pad and uses its umbilicals or flexible lines to route the vehicles, fluids, power and telemetry from ground systems to the rocket and payload.

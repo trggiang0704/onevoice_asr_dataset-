@@ -1,1 +1,0 @@
-a number of tests to confirm that under specific conditions, yes, we can fly it safely.

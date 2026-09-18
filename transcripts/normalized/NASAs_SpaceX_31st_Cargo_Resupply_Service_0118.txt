@@ -1,1 +1,0 @@
-There's that call it for max Q that's the maximum aerodynamic pressure that the vehicle will see during a send.

@@ -1,1 +1,0 @@
-This larger lander is an infrastructure class lander. It's not just meant for scientific payloads and instrumentation.

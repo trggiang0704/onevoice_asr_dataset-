@@ -1,1 +1,0 @@
-During a send, we will tilt or gimbal the engines, guiding the rocket into what we call a gravity turn. Now during this turn, the vehicle is flying both up and horizontally away from the launch pad.

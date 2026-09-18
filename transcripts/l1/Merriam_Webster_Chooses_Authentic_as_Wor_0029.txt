@@ -1,1 +1,0 @@
-The online word game, Wordal, also increases searches for some words as players check letters and words before they play them.

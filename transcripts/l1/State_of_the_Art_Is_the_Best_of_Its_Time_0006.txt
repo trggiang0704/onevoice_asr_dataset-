@@ -1,1 +1,0 @@
-Using words and conversations is not a state of the art learning method.
