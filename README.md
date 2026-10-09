@@ -65,7 +65,7 @@ The dataset includes official baseline evaluations conducted on the `dev` split 
   - U.S. Department of State: 6.74% WER
 
 ### Mandarin Chinese Baseline (`FunAudioLLM/SenseVoiceSmall`)
-- **Corpus CER:** **23.59%**
+- **Corpus CER:** **10.43%**
 - **Real-Time Factor (RTF):** **0.0105** (on NVIDIA GTX 1650 4GB)
 - **Total Inference Time:** 64.55 seconds (for 359 test clips)
 
