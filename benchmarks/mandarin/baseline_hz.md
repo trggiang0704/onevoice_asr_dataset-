@@ -20,7 +20,7 @@
 
 | Nguồn | Số clip | Mean CER |
 | --- | --- | --- |
-| Unknown | 359 | 0.0957 |
+| OneVoice Team | 359 | 0.0957 |
 
 ## 3. CER theo độ dài clip
 
