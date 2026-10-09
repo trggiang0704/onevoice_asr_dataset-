@@ -1,7 +1,5 @@
 # Baseline WER — English ASR
 
-> ⚠️ **PROVISIONAL** — 509/776 clip đang dùng transcript L1 (chưa qua review L2). Theo mục 13.2 của kế hoạch, dev set cần kiểm tra L2 100% mới được coi là ground truth chính thức. Số WER dưới đây là ước lượng tạm thời, KHÔNG dùng để công bố kết quả cuối cùng cho tới khi hoàn thành review L2.
-
 **Model baseline:** openai/whisper-small
 **Split đánh giá:** dev
 **Số clip đánh giá:** 776 / 776 (0 thiếu audio)
